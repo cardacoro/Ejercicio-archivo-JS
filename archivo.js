@@ -11,3 +11,4 @@ const lista = [
     url: "https://www.buscalibre.com.co/libro-multiverso-multiverso-1/"
 }
 ]
+console.log(lista);
